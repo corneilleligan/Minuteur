@@ -12,7 +12,7 @@ et contrôles play / pause / réinitialiser. Durées personnalisables de 30 s à
 
 <br/>
 
-![screenshot](screenshot.png)<img src="screenshot.png" width="300" height="auto"/>
+![screenshot](screenshot.png)<img src="screenshot.png" width="700" height="auto"/>
 
 </div>
 
